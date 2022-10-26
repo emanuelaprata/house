@@ -1,6 +1,6 @@
 # house
 
-House é um aplicativo que foi criado com o intuito de aprimorar os conhecimentos em desenvolvimento mobile. 
+House é um aplicativo que foi desenvolvido com Expo e o intuito de aprimorar os conhecimentos em desenvolvimento mobile. 
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/83521009/197914491-b14927cf-da90-45b9-b912-f46714c08bbb.jpeg" width="200px" />
